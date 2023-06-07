@@ -1,1 +1,1 @@
-# uzaktaki repomu aldim
+# uzaktan degistirdim 
