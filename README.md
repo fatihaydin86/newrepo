@@ -1,1 +1,1 @@
-# newrepo
+# uzaktaki repomu aldim
